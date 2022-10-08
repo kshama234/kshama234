@@ -45,8 +45,8 @@ Tools I am skilled in:
 **Exploratory Data Analysis of Indian Companies Registration ([notebook](https://jovian.ai/singhalkshama4343/exploratory-data-analysis-project),[blog](https://blog.jovian.ai/exploratory-data-analysis-of-indian-companies-registration-a7f042a676ca))**
 <ul>
 <li>Analyzed data for 1.9 million+ companies registration containing 17 columns by using Pandas</li>
-</li>Visualized the data (histograms, sunbursts, treemap, line charts) using Matplotlib, Seaborn & Plotly</li>
-</li>Discovered the drastic decrease in companies registration from 2019 to 2020</li>
+<li>Visualized the data (histograms, sunbursts, treemap, line charts) using Matplotlib, Seaborn & Plotly</li>
+<li>Discovered the drastic decrease in companies registration from 2019 to 2020</li>
 </ul> 
 **Bookshop Analysis Using Excel and Tableau ([Dashboard](https://public.tableau.com/app/profile/kshama.singhal/viz/BookShop_16578010432460/Dashboard1))**
 <ul><li>Analyzed the dataset of 59 books containing different sheets using Pivot Tables, Vlookup in Excel</li>
