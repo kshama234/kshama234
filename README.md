@@ -36,19 +36,21 @@ Tools I am skilled in:
  
 ### **PROJECTS**
 
-**Scraping 'Quotes To Scrape' Website Using Python ([notebook](https://jovian.ai/singhalkshama4343/web-scraping-project),[blog](https://medium.com/jovianml/scraping-quotes-to-scrape-website-using-python-c8a616b2)))**
+**Scraping 'Quotes To Scrape' Website Using Python ([notebook](https://jovian.ai/singhalkshama4343/web-scraping-project),[blog](https://medium.com/jovianml/scraping-quotes-to-scrape-website-using-python-c8a616b2)))
 <ul>
 <li>Scraped 'Quotes To Scrape' website with the help of requests, BeautifulSoup libraries of Python</li>
 <li>Build functions such as get_quotes, get_quotes_tag, get_author_name to extract quote, tag, author</li>
 <li>Size of the obtained DataFrame is 100 rows X 4 columns and the size of the csv file is 100</li>
 </ul> 
-**Exploratory Data Analysis of Indian Companies Registration ([notebook](https://jovian.ai/singhalkshama4343/exploratory-data-analysis-project),[blog](https://blog.jovian.ai/exploratory-data-analysis-of-indian-companies-registration-a7f042a676ca))**
+
+**Exploratory Data Analysis of Indian Companies Registration ([notebook](https://jovian.ai/singhalkshama4343/exploratory-data-analysis-project),[blog](https://blog.jovian.ai/exploratory-data-analysis-of-indian-companies-registration-a7f042a676ca))
 <ul>
 <li>Analyzed data for 1.9 million+ companies registration containing 17 columns by using Pandas</li>
 <li>Visualized the data (histograms, sunbursts, treemap, line charts) using Matplotlib, Seaborn & Plotly</li>
 <li>Discovered the drastic decrease in companies registration from 2019 to 2020</li>
 </ul> 
-**Bookshop Analysis Using Excel and Tableau ([Dashboard](https://public.tableau.com/app/profile/kshama.singhal/viz/BookShop_16578010432460/Dashboard1))**
+
+**Bookshop Analysis Using Excel and Tableau ([Dashboard](https://public.tableau.com/app/profile/kshama.singhal/viz/BookShop_16578010432460/Dashboard1))
 <ul><li>Analyzed the dataset of 59 books containing different sheets using Pivot Tables, Vlookup in Excel</li>
 <li>Loaded the dataset in Tableau and created a dashboard having map, line chart, bar plot, treemap etc</li> 
 <li>Discovered that the United States has the highest no. of Authors, July  has the most sales, etc</li>
