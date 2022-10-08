@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ### Hii I am Kshama Singhal. 
 
 You can reach me:
-[Linkedin](https://www.linkedin.com/in/singhalkshama4343/)
+[Linkedin](https://www.linkedin.com/in/singhalkshama4343/) | [Medium](https://medium.com/@kshamasinghal) | [Gmail](singhalkshama4343@gmail.com)
