@@ -1,5 +1,5 @@
 ### Kshama Singhal
-<hr></hr>
+<hr>
 <!--
 **kshama234/kshama234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,4 +35,4 @@ Tools I am skilled in:
 #### **Mata Sundri College For Women, University of Delhi, India                                                                                              2015-2018  ***Bachelor of Science (Hons.) in Mathematics
 **Courses**: Real Analysis, Calculus, Number Theory, Discrete Mathematics, Differential Equations
  
-
+</hr>
