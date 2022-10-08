@@ -28,15 +28,15 @@ Tools I am skilled in:
 **Highlights**: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
 
 #### **Indian Institute of Technology Hyderabad, India**                                                                                                    (2018-2020)
-***Master of Science in Mathematics & Computing
+*Master of Science in Mathematics & Computing*
 **Courses**: Multivariable Calculus, Linear Algebra, Probability Theory, Statistics, Combinatorics & Graph Theory
 
-#### **Mata Sundri College For Women, University of Delhi, India**                                                                                          (2015-2018) *Bachelor of Science (Hons.) in Mathematics
+#### **Mata Sundri College For Women, University of Delhi, India**                                                                                          (2015-2018) *Bachelor of Science (Hons.) in Mathematics*
 **Courses**: Real Analysis, Calculus, Number Theory, Discrete Mathematics, Differential Equations
  
 ### **PROJECTS**
 
-**Scraping 'Quotes To Scrape' Website Using Python ([notebook](https://jovian.ai/singhalkshama4343/web-scraping-project),[blog](https://medium.com/jovianml/scraping-quotes-to-scrape-website-using-python-c8a616b2)))**
+**Scraping 'Quotes To Scrape' Website Using Python ([notebook](https://jovian.ai/singhalkshama4343/web-scraping-project),[blog](https://medium.com/jovianml/scraping-quotes-to-scrape-website-using-python-c8a616b2))**
 <ul>
 <li>Scraped 'Quotes To Scrape' website with the help of requests, BeautifulSoup libraries of Python</li>
 <li>Build functions such as get_quotes, get_quotes_tag, get_author_name to extract quote, tag, author</li>
