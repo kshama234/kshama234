@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hii I am Kshama Singhal. 
+
+You can reach me:
+![](https://www.linkedin.com/in/singhalkshama4343/)
