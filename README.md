@@ -31,7 +31,8 @@ Tools I am skilled in:
 *Master of Science in Mathematics & Computing*
 **Courses**: Multivariable Calculus, Linear Algebra, Probability Theory, Statistics, Combinatorics & Graph Theory
 
-#### **Mata Sundri College For Women, University of Delhi, India**                                                                                          (2015-2018) *Bachelor of Science (Hons.) in Mathematics*
+#### **Mata Sundri College For Women, University of Delhi, India**                                                                                          (2015-2018)
+*Bachelor of Science (Hons.) in Mathematics*
 **Courses**: Real Analysis, Calculus, Number Theory, Discrete Mathematics, Differential Equations
  
 ### **PROJECTS**
