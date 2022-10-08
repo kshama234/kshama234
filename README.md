@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **kshama234/kshama234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hii I am Kshama Singhal. 
+### Hii I am Kshama Singhal. 
 
 You can reach me:
-![](https://www.linkedin.com/in/singhalkshama4343/)
+[](https://www.linkedin.com/in/singhalkshama4343/)
