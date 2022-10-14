@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hii I am Kshama Singhal.
+Hii I am Kshama.
 I like coding, maths, drawing.
 
 You can reach me:
