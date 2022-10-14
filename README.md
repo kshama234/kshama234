@@ -25,10 +25,12 @@ Tools I am skilled in: SQL, Excel, Tableau, Python, Numpy, Pandas, Web Scraping 
 
 #### **Data Science and Machine Learning Bootcamp, Jovian**                                                                                           (May2022-Ongoing)                                                                                                                              
 **Courses** :  Programming with Python, SQL & Business Intelligence, Data Analysis & Visualization
+
 **Highlights**: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
 
 #### **Indian Institute of Technology Hyderabad, India**                                                                                                    (2018-2020)
 *Master of Science in Mathematics & Computing*
+
 **Courses**: Multivariable Calculus, Linear Algebra, Probability Theory, Statistics, Combinatorics & Graph Theory
 
 #### **Mata Sundri College For Women, University of Delhi, India**                                                                                          (2015-2018)
