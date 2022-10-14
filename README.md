@@ -35,6 +35,7 @@ Tools I am skilled in: SQL, Excel, Tableau, Python, Numpy, Pandas, Web Scraping 
 
 #### **Mata Sundri College For Women, University of Delhi, India**                                                                                          (2015-2018)
 *Bachelor of Science (Hons.) in Mathematics*
+
 **Courses**: Real Analysis, Calculus, Number Theory, Discrete Mathematics, Differential Equations
  
 ### **PROJECTS**
