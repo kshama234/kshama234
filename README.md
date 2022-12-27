@@ -17,8 +17,14 @@ Hii I am Kshama.
 I like coding, maths, drawing.
 
 You can reach me:
-<div id="badges"><img src="https://imgur.com/79NgZfC"
-</div>(https://www.linkedin.com/in/singhalkshama4343/) | [Medium](https://medium.com/@kshamasinghal)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/singhalkshama4343/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@kshamasinghal">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 Tools I am skilled in: SQL, Excel, Tableau, Python, Numpy, Pandas, Web Scraping using Beautiful Soup, Plotly, Probability & Statistics
 
