@@ -34,7 +34,7 @@ You can reach me:
 
 ### **EDUCATION**
 
----------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
  #### **Data Science and Machine Learning Bootcamp, Jovian**                                                                                       (May2022-Jan 2023)                                                                                                                              
 **Courses** :  Programming with Python, SQL & Business Intelligence, Data Analysis & Visualization
 
@@ -52,7 +52,7 @@ You can reach me:
  
 ### **PROJECTS**
 
----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Exploratory Data Analysis of Indian Companies Registration ([notebook](https://jovian.ai/singhalkshama4343/exploratory-data-analysis-project),[blog](https://blog.jovian.ai/exploratory-data-analysis-of-indian-companies-registration-a7f042a676ca))**
 <ul>
 <li>Analyzed data for 1.9 million+ companies registration containing 17 columns by using Pandas</li>
