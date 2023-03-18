@@ -74,7 +74,7 @@ Tools I am skilled in: SQL, Excel, Tableau, Python, Numpy, Pandas, Web Scraping 
 <li>Achieved a root mean squared logarithmic error of $0.66861</li>
  </ul>
  
- **Call Center Customer Analysis Using Power BI ([Dashboard](https://public.tableau.com/app/profile/kshama.singhal/viz/BookShop_16578010432460/Dashboard1))**
+ **Call Center Customer Analysis Using Power BI ([Dashboard](https://github.com/kshama234/Call-Center-Customer-Analysis-Using-Power-BI))**
 <ul><li>Analyzed the dataset of Call Center having 5k rows & 10 columns </li>
 <li>Visualized the dataset using graphs such as bar chart, donut chart, table and card number in Power BI</li> 
 <li>Discovered that average customer rating is 3.5, approx 82% calls are answered by agents</li>
