@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 I like coding, maths, drawing.
 
 You can reach me:
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/singhalkshama4343/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,6 +26,7 @@ You can reach me:
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 
 **Technical Skills**: SQL, Excel, Tableau, Power BI, Python, Numpy, Pandas, Web Scraping using Beautiful Soup, Statistics
 
