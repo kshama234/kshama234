@@ -35,22 +35,21 @@ You can reach me:
 ### **EDUCATION**
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-<ul>
-<li> **Data Science and Machine Learning Bootcamp, Jovian** </li>                                                                                       (May2022-Jan 2023)                                                                                                                              
+ #### **Data Science and Machine Learning Bootcamp, Jovian**                                                                                       (May2022-Jan 2023)                                                                                                                              
 **Courses** :  Programming with Python, SQL & Business Intelligence, Data Analysis & Visualization
 
 **Highlights**: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
 
-<li> **Indian Institute of Technology Hyderabad, India** </li>                                                                                                   (2018-2020)
+ #### **Indian Institute of Technology Hyderabad, India**                                                                                                   (2018-2020)
 *Master of Science in Mathematics & Computing*
 
 **Courses**: Multivariable Calculus, Linear Algebra, Probability Theory, Statistics, Combinatorics & Graph Theory
 
-<li> **Mata Sundri College For Women, University of Delhi, India** </li>                                                                                         (2015-2018)
+#### **Mata Sundri College For Women, University of Delhi, India**                                                                                          (2015-2018)
 *Bachelor of Science (Hons.) in Mathematics*
 
 **Courses**: Real Analysis, Calculus, Number Theory, Discrete Mathematics, Differential Equations
- </ul>
+ 
 ### **PROJECTS**
 
 ---------------------------------------------------------------------------------------------------------------------------------------
