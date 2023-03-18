@@ -50,7 +50,7 @@ You can reach me:
 *Bachelor of Science (Hons.) in Mathematics*
 
 **Courses**: Real Analysis, Calculus, Number Theory, Discrete Mathematics, Differential Equations
- 
+ </ul>
 ### **PROJECTS**
 
 ---------------------------------------------------------------------------------------------------------------------------------------
