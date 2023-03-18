@@ -28,9 +28,11 @@ You can reach me:
 
 Tools I am skilled in: SQL, Excel, Tableau, Python, Numpy, Pandas, Web Scraping using Beautiful Soup, Plotly, Probability & Statistics
 
+---------------------------------------------------------------------------------------------------------------------------------------
+
 ### **EDUCATION**
 
-#### **Data Science and Machine Learning Bootcamp, Jovian**                                                                                           (May2022-Ongoing)                                                                                                                              
+#### **Data Science and Machine Learning Bootcamp, Jovian**                                                                                          (May2022-Jan 2023)                                                                                                                              
 **Courses** :  Programming with Python, SQL & Business Intelligence, Data Analysis & Visualization
 
 **Highlights**: 500+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
